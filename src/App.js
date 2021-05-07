@@ -1,7 +1,9 @@
+import { AddUser } from './componetns/Users';
+
 function App() {
   return (
     <div>
-      <h1>Working!</h1>
+      <AddUser />
     </div>
   );
 }
